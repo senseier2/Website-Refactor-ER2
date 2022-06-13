@@ -36,3 +36,22 @@ Image adjustments:
 Used footer tag for clarity - replaced div in CSS as well.
 
     -----------------------------------------------------------------------------------
+
+    Date: 6/13/2022 Release notes
+
+    -Added Favicon image and linked to webpage
+
+    -added new CSS  with reference notes.
+        -commented out new CSS to wait for finale tests.
+
+    -Created a secondary CSS page style sheet for testing.  This is pending deletion.
+
+    -------------------------------------------------
+
+    Date 6/13/2022 Release notes
+
+    - Finished CSS condensed sweep.
+
+    - Deleting test CSS 
+
+
