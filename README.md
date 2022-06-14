@@ -4,19 +4,26 @@ refactor week 01 project
 6/9/2002 Release notes
     Updated HTML tags to reference the semantic sections of the website.
     Divs changed to the following tags:
+    
     - Header
         - lines 12 and 28
+
     - Nav
         - lines 15 and 27
+
     - Article
         - lines 31 and 54
+
     - Section (replaced multiple divs for section tags)
         - article sections lines: 33,39,40,46,47,53 
         - aside section lines: 57,63,64,70,71,77
+
     - Aside
         - lines 56 and 78
+
     - Footer 
         - lines 80 and 85
+
     - Main (added for overall control of the body section)
 
 Updated title tag to include the Company name "Horiseon"
