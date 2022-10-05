@@ -20,15 +20,15 @@
 
 Refactored code has not changed the site and has made the code base cleaner.
 
-![](refactor-week1/assets/images/Horiseon%20image%201.JPG)
+![](assets/images/Horiseon%20image%201.JPG)
 
 Refactored the lower options so that the CSS was streamlined.
 
-![](refactor-week1/assets/images/Horiseon%20image%202.JPG)
+![](assets/images/Horiseon%20image%202.JPG)
 
 Added a favicon to the top of the website for visibility and marketing purposes.
 
-![](refactor-week1/assets/images/favicon.ico.PNG)
+![](assets/images/favicon.ico.PNG)
 
 ***
 
