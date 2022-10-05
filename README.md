@@ -1,64 +1,58 @@
-# refactor-week1
-refactor week 01 project
 
-6/9/2002 Release notes
-    Updated HTML tags to reference the semantic sections of the website.
-    Divs changed to the following tags:
     
-    - Header
-        - lines 12 and 28
+    
 
-    - Nav
-        - lines 15 and 27
+# Project Title: Code Refactor - Week 01
 
-    - Article
-        - lines 31 and 54
+- - - - -
 
-    - Section (replaced multiple divs for section tags)
-        - article sections lines: 33,39,40,46,47,53 
-        - aside section lines: 57,63,64,70,71,77
+## Table of Contents
 
-    - Aside
-        - lines 56 and 78
+* [Installation](#installation)
+* [Usage](#usage)
+* [License](#license)
+* [Contributors](#contributors)
+* [Test](#test)
+* [Questions](#questions)
 
-    - Footer 
-        - lines 80 and 85
+## Description
+    Refactoring the code of a completed website to clean up, document, and condense the CSS code. Along with some website cleanup.
 
-    - Main (added for overall control of the body section)
+Refactored code has not changed the site and has made the code base cleaner.
 
-Updated title tag to include the Company name "Horiseon"
+![](refactor-week1/assets/images/Horiseon%20image%201.JPG)
 
-Replaced the footer H2 tag with an H4 tag for accessibility and to maintain the flow of the document.
+Refactored the lower options so that the CSS was streamlined.
 
-Image adjustments:
+![](refactor-week1/assets/images/Horiseon%20image%202.JPG)
 
-    Added alt text to the following lines for accessibility:
+Added a favicon to the top of the website for visibility and marketing purposes.
 
-    - Line 34: "Image of a notepad and desktop supplies on a desk"
+![](refactor-week1/assets/images/favicon.ico.PNG)
 
-    - Line 41: "Image of a profession using a laptop, reputation is on the display of the laptop."
+***
 
-    - Line 48: "A conference table with professionals discussing multiple social media subjects. There are colorful icon stickers displayed across the table."
+Here is a link to my github repository: https://github.com/senseier2/refactor-week1
 
-Used footer tag for clarity - replaced div in CSS as well.
+And a link to my deployed pages file: https://senseier2.github.io/refactor-week1
 
-    -----------------------------------------------------------------------------------
+## Installation
+    Download the repository and run the index.html file to view the website and test the links. You can also check the CSS file, or use the web console of your favorite browser to view changes.
 
-    Date: 6/13/2022 Release notes
+## Usage
+    This is a website for the Horiseon company, use it to checkout what they do and how they do it.
 
-    -Added Favicon image and linked to webpage
+## License
+    This application is  covered under the [Unlicense] license.
 
-    -added new CSS  with reference notes.
-        -commented out new CSS to wait for finale tests.
+## Contributors
+    Eric McGhee
 
-    -Created a secondary CSS page style sheet for testing.  This is pending deletion.
+## Test Instructions
+    Testing can be done in the browser of your choice,   there are several testing tools available for web applications. Also please visit the website and test the links and images for issues.  
 
-    -------------------------------------------------
+## Questions
 
-    Date 6/13/2022 Release notes
-
-    - Finished CSS condensed sweep.
-
-    - Deleting test CSS 
-
-
+Please feel free to send questions via my GitHub profile: [senseier2](https://github.com/senseier2)
+Or email me via: eric.mcghee@northwestern.edu
+    
