@@ -6,7 +6,7 @@
     margin: 0;
 }
 
-/*Added smooth scroll behavior for a better experience, static jump was too abrupt */
+/*Added smooth scroll behavior for a better experience, static jump was too abrupt - Using javascript for scrolling effect */
 /* html {
     scroll-behavior: smooth;
 } */
