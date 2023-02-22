@@ -58,6 +58,7 @@ header nav ul li {
 /* Adding a hover effect to the original project for testing purposes */
 header nav ul li :hover {
     color: lightgrey;
+    transition: 0.3s;
 }
 
 /* A tag styling for color and no text decoration for the hyperlinks */
