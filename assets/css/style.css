@@ -52,7 +52,7 @@ header nav ul li {
 
 /* Adding a hover effect to the original project for testing purposes */
 header nav ul li :hover {
-    color: antiquewhite;
+    color: lightgrey;
 }
 
 /* A tag styling for color and no text decoration for the hyperlinks */
