@@ -50,6 +50,11 @@ header nav ul li {
     margin-left: 25px;
 }
 
+/* Adding a hover effect to the original project for testing purposes */
+header nav ul li :hover {
+    color: antiquewhite;
+}
+
 /* A tag styling for color and no text decoration for the hyperlinks */
 a {
     color: #ffffff;
